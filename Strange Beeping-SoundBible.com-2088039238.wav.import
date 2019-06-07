@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Strange Beeping-SoundBible.com-2088039238.wav-d188c7d5c38aacd5cfb4af0c6edefa75.sample"
+
+[deps]
+
+source_file="res://Strange Beeping-SoundBible.com-2088039238.wav"
+dest_files=[ "res://.import/Strange Beeping-SoundBible.com-2088039238.wav-d188c7d5c38aacd5cfb4af0c6edefa75.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
